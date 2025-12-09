@@ -22,6 +22,7 @@ env:
   BUILD_PATH: "."
   NOTION_API_SECRET: ${{ secrets.NOTION_API_SECRET }}
   DELETE_CACHES_GH_TOKEN: ${{ secrets.DELETE_CACHES_GH_TOKEN }}
+  DATABASE_ID: ${{ secrets.DATABASE_ID }}
 
 jobs:
   # =================================================================================================
