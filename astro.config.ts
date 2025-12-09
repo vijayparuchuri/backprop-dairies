@@ -169,7 +169,7 @@ export default defineConfig({
 		robotsTxt({
 			sitemapBaseFileName: "sitemap",
 		}),
-		rssContentEnhancer(),
+		// rssContentEnhancer(),
 		markdownExporter(),
 		blocksHtmlCacher(),
 		externalRenderCacher(),
