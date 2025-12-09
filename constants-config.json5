@@ -13,7 +13,7 @@
 	// Basic details about your website used for metadata, RSS feeds, and SEO.
 	"site-info": {
 		// Your name or the name of your site's author. Used in RSS feeds, OG images etc and other metadata for attribution.
-		author: "",
+		author: "Vijay Paruchuri",
 		// Your custom domain name (e.g., "example.com"). Important: Do NOT include "https://" or a trailing slash. Leave this empty if you are deploying to a service like Vercel or Netlify without a custom domain.
 		"custom-domain": "",
 		// The sub-directory your site is deployed in (e.g., "/blog"). Leave empty if your site is at the root of your domain. Must start with a forward slash "/" if used.
